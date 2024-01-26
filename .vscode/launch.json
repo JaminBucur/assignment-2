@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiPrototypeApplication<api_prototype>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jaminbucur.assignment2.api_prototype.ApiPrototypeApplication",
+            "projectName": "api_prototype",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
